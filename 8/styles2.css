@@ -1,0 +1,10 @@
+.box1{
+    width: 200px;
+    height: 400px;
+    box-shadow: 1px 0 0px 35px rgb(121, 118, 118);
+    border-radius: 150px;
+    border-width: 30px;
+    margin-left: 25px;
+    /* border-style: solid; */
+    border-color: grey;
+}
