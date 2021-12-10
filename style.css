@@ -1,6 +1,36 @@
-h1,h2,h3 {
-    color: teal;
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: darkslategrey;
 }
-h4,h5,h6 {
-    color: darkslategray;
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color:darkturquoise;
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color:dodgerblue;
+}
+.box:hover{
+    background-color: fuchsia;
+}
+.box2:hover{
+    background-color:hotpink;
+}
+.box3:hover{
+    background-color:indianred;
+}
+.box:active{
+    width: 250px;
+    height: 250px;
+}
+.box2:active{
+    width: 250px;
+    height: 250px;
+}
+.box3:active{
+    width: 250px;
+    height: 250px;
 }

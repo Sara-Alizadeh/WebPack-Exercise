@@ -1,0 +1,60 @@
+.box1{
+    width: 900px;
+    height: 80px;
+    background-color: red;
+    margin-top: 5px;
+    transition: 5s;
+    }
+    .box2{
+    width: 900px;
+    height: 80px;
+    background-color: orange;
+    margin-top: 5px;
+    transition: 5s;
+    }
+
+    .box3{
+        width: 900px;
+    height: 80px;
+    background-color: yellow;
+    margin-top: 5px;
+    transition: 5s;
+    }
+    .box4{
+    width: 900px;
+    height: 80px;
+    background-color: green;
+    margin-top: 5px;
+    transition: 5s;
+    }
+    .box5{
+        width: 900px;
+        height: 80px;
+        background-color: blue;
+        margin-top: 5px;
+        transition: 5s;
+    }
+    .box6{
+        width: 900px;
+        height: 80px;
+        background-color: indigo;
+        margin-top: 5px;
+        transition: 5s;
+    }
+    .box7{
+        width: 900px;
+        height: 80px;
+        background-color: violet;
+        margin-top: 5px;
+        transition: 5s;
+    }
+    .box7{
+        width: 900px;
+        height: 900px;
+        background-color: violet;
+        margin-top: 5px;
+        float: left;
+    }
+    .box1:hover+.box2{
+        opacity: 0.2;
+        }
